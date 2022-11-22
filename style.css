@@ -1,5 +1,5 @@
 #header{
-    background-color: blue;
+    background-color: rgb(211, 223, 184);
     position: fixed;
     top: 0%;
     width: 100%;
@@ -14,5 +14,10 @@ main{
 }
 
 .list{
-    
+
+}
+
+footer{
+    Background: rgb(163, 133, 96);
+
 }
